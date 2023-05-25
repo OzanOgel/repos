@@ -1,0 +1,118 @@
+use UniversiteDB
+go
+INSERT INTO Fakulteler(Isim,Dekan)
+values('Edebiyat fakultesi','Prof.Dr. Mehmet Erol ALTINSAPAN')
+INSERT INTO Fakulteler(Isim,Dekan)
+values('Eðitim fakultesi','Prof.Dr Erkan DÝNÇ')
+INSERT INTO Fakulteler(Isim,Dekan)
+values('Mühendislik fakultesi','Prof.Dr. R.Tuna Balkan')
+INSERT INTO Fakulteler(Isim,Dekan)
+values('Hukuk fakultesi','Prof. Dr. Recai DÖNMEZ')
+INSERT INTO Fakulteler(Isim,Dekan)
+values('Saðlýk Bilimleri Fakultesi','Prof. Dr. Merdiye ÞENDÝR')
+--Executeledin!!!!!!!!!!!!!!!!
+--
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Arkeoloji Bölümü',11 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Felsefe Bölümü',11 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Psikoloji Bölümü',11 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Sanat Tarihi Bölümü',11 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Sosyoloji Bölümü',11 )
+--
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Eðitim Bilimleri Bölümü',12 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Bilgisayar ve öðretim teknolojileri Bölümü',12 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Güzel sanatlar eðitimi Bölümü',12 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Matematik ve Fen bilimleri eðitimi Bölümü',12 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('yabancý diller eðitimi Bölümü',12 )
+--
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Bilgisayar mühendisliði Bölümü',13 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Biyomühendislik Bölümü',13 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Makine Mühendisliði Bölümü',13 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Ýnþaat mühendisliði Bölümü',13 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('endüstri mühendisliði  Bölümü',13 )
+--
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Hukuk Bölümü',14 )
+--
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Beslenme ve Diyetetik Bölümü',15 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Çocuk geliþimi Bölümü',15 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Dil ve konuþma terapisi bölümü',15 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('Hemþirelik Bölümü',15 )
+INSERT INTO Bolumler(Isim,Fakulte_ID)
+values('iþ saðlýðý ve güvenliði Bölümü',15 )
+--EXECUTELEDÝNN!!!!!!!!!!!!!
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('10102363422','Ozan','Ögel','Mesut',105)
+--EXECUTELEDÝNN!!!!!!!!!!!!!
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('47635787543','Zafer','Ýþcan','Murat',106)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('98765432112','Yaðmur','kýrmýzý','abdurrahman',107)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('10102363427','Ýlayda','Demir','Ahmet',108)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('98765432122','Ýlayda','Keleþ','Mehmet',109)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('10102363232','Ýlke','Aslan','Mehmet',110)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('20102363422','Mehmet','Demir','Mehmet',111)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('30202363422','ahmet','yeþil','rezzak',112)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('40102363422','Buket','Sararan','casut',113)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('50102363422','polat','bakýr','jayce',114)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('60102363422','Çaðrý Talha','Yener','fuzuli',115)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('70102363422','melih','uçar','tekin',116)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('80102363422','yeþim','yeþeren','yalýn',117)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('90102363422','yalýn','kalýn','dalýn',118)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('91102363422','Barkýn','Karkýn','Hüseyin',119)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('92102363422','suayip','kýzaran','Gýdýgýdýrahman',120)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('93102363422','Recep Tayyip','Erdoðan','Keldoðan',121)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('94102363422','Emine','Erdoðan','Recep',122)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('96102363422','fatmagül','alan','ahmet',123)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('97102363422','oðuzhan','utku','tutku',124)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('98102363422','Mutlu','Polat','Alemdar',125)
+INSERT INTO Ogrenciler(OkulNo,Isim,Soyad,BabaAdi,Bolum_ID)
+VALUES('99102363422','Batuhan','Uymaz','Mehmet',126)
+
+
+
+
+
+
+
+
+
+
+
+
