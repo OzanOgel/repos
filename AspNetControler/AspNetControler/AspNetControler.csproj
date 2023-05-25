@@ -1,0 +1,278 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7C9CB294-F440-4F6A-850E-A3A75AE0D83A}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AspNetControler</RootNamespace>
+    <AssemblyName>AspNetControler</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44335</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ASP\ButtonController.aspx" />
+    <Content Include="ASP\DropDownDataBound.aspx" />
+    <Content Include="ASP\DropDownList.aspx" />
+    <Content Include="ASP\KullanıcıGiriş.aspx" />
+    <Content Include="ASP\LabelController.aspx" />
+    <Content Include="ASP\TextBoxController.aspx" />
+    <Content Include="ButtonControls.aspx" />
+    <Content Include="CSS\CssDosyasiOlusturmak.aspx" />
+    <Content Include="CSS\CssNedir.aspx" />
+    <Content Include="CSS\css\KullaniciGiriş.css" />
+    <Content Include="CSS\css\sti.css" />
+    <Content Include="CSS\DivNedir.aspx" />
+    <Content Include="CSS\seciciTurleri.aspx" />
+    <Content Include="HTML\Basliklar.aspx" />
+    <Content Include="HTML\Images.aspx" />
+    <Content Include="HTML\Images\ssad.jpeg" />
+    <Content Include="HTML\Linkler.aspx" />
+    <Content Include="HTML\ListeGorunumleri.aspx" />
+    <Content Include="HTML\MetinFormatlama.aspx" />
+    <Content Include="HTML\Paragraflar.aspx" />
+    <Content Include="HTML\TabloOlusturma.aspx" />
+    <Content Include="HTML\TemelAyarlar.aspx" />
+    <Content Include="resimler\ssad.jpeg" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ASP\ButtonController.aspx.cs">
+      <DependentUpon>ButtonController.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ASP\ButtonController.aspx.designer.cs">
+      <DependentUpon>ButtonController.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ASP\DropDownDataBound.aspx.cs">
+      <DependentUpon>DropDownDataBound.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ASP\DropDownDataBound.aspx.designer.cs">
+      <DependentUpon>DropDownDataBound.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ASP\DropDownList.aspx.cs">
+      <DependentUpon>DropDownList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ASP\DropDownList.aspx.designer.cs">
+      <DependentUpon>DropDownList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ASP\KullanıcıGiriş.aspx.cs">
+      <DependentUpon>KullanıcıGiriş.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ASP\KullanıcıGiriş.aspx.designer.cs">
+      <DependentUpon>KullanıcıGiriş.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ASP\LabelController.aspx.cs">
+      <DependentUpon>LabelController.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ASP\LabelController.aspx.designer.cs">
+      <DependentUpon>LabelController.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ASP\TextBoxController.aspx.cs">
+      <DependentUpon>TextBoxController.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ASP\TextBoxController.aspx.designer.cs">
+      <DependentUpon>TextBoxController.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ButtonControls.aspx.cs">
+      <DependentUpon>ButtonControls.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ButtonControls.aspx.designer.cs">
+      <DependentUpon>ButtonControls.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CSS\CssDosyasiOlusturmak.aspx.cs">
+      <DependentUpon>CssDosyasiOlusturmak.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CSS\CssDosyasiOlusturmak.aspx.designer.cs">
+      <DependentUpon>CssDosyasiOlusturmak.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CSS\CssNedir.aspx.cs">
+      <DependentUpon>CssNedir.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CSS\CssNedir.aspx.designer.cs">
+      <DependentUpon>CssNedir.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CSS\DivNedir.aspx.cs">
+      <DependentUpon>DivNedir.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CSS\DivNedir.aspx.designer.cs">
+      <DependentUpon>DivNedir.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CSS\seciciTurleri.aspx.cs">
+      <DependentUpon>seciciTurleri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CSS\seciciTurleri.aspx.designer.cs">
+      <DependentUpon>seciciTurleri.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\Basliklar.aspx.cs">
+      <DependentUpon>Basliklar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\Basliklar.aspx.designer.cs">
+      <DependentUpon>Basliklar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\Images.aspx.cs">
+      <DependentUpon>Images.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\Images.aspx.designer.cs">
+      <DependentUpon>Images.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\Linkler.aspx.cs">
+      <DependentUpon>Linkler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\Linkler.aspx.designer.cs">
+      <DependentUpon>Linkler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\ListeGorunumleri.aspx.cs">
+      <DependentUpon>ListeGorunumleri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\ListeGorunumleri.aspx.designer.cs">
+      <DependentUpon>ListeGorunumleri.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\MetinFormatlama.aspx.cs">
+      <DependentUpon>MetinFormatlama.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\MetinFormatlama.aspx.designer.cs">
+      <DependentUpon>MetinFormatlama.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\Paragraflar.aspx.cs">
+      <DependentUpon>Paragraflar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\Paragraflar.aspx.designer.cs">
+      <DependentUpon>Paragraflar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\TabloOlusturma.aspx.cs">
+      <DependentUpon>TabloOlusturma.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\TabloOlusturma.aspx.designer.cs">
+      <DependentUpon>TabloOlusturma.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\TemelAyarlar.aspx.cs">
+      <DependentUpon>TemelAyarlar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\TemelAyarlar.aspx.designer.cs">
+      <DependentUpon>TemelAyarlar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53683</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44335/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

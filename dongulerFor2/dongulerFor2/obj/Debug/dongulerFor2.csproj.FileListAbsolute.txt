@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\dongulerFor2\dongulerFor2\bin\Debug\dongulerFor2.exe.config
+C:\Users\ozano\source\repos\dongulerFor2\dongulerFor2\bin\Debug\dongulerFor2.exe
+C:\Users\ozano\source\repos\dongulerFor2\dongulerFor2\bin\Debug\dongulerFor2.pdb
+C:\Users\ozano\source\repos\dongulerFor2\dongulerFor2\obj\Debug\dongulerFor2.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\dongulerFor2\dongulerFor2\obj\Debug\dongulerFor2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\dongulerFor2\dongulerFor2\obj\Debug\dongulerFor2.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\dongulerFor2\dongulerFor2\obj\Debug\dongulerFor2.exe
+C:\Users\ozano\source\repos\dongulerFor2\dongulerFor2\obj\Debug\dongulerFor2.pdb

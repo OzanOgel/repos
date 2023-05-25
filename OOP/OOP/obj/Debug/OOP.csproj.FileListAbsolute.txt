@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\ozano\source\repos\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\ozano\source\repos\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\ozano\source\repos\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\OOP\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\ozano\source\repos\OOP\OOP\obj\Debug\OOP.pdb

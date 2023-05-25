@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\kosullar\kosullar\obj\Debug\kosullar.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\kosullar\kosullar\obj\Debug\kosullar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\kosullar\kosullar\obj\Debug\kosullar.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\kosullar\kosullar\bin\Debug\kosullar.exe.config
+C:\Users\ozano\source\repos\kosullar\kosullar\bin\Debug\kosullar.exe
+C:\Users\ozano\source\repos\kosullar\kosullar\bin\Debug\kosullar.pdb
+C:\Users\ozano\source\repos\kosullar\kosullar\obj\Debug\kosullar.exe
+C:\Users\ozano\source\repos\kosullar\kosullar\obj\Debug\kosullar.pdb

@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\OPPuygulama\OPPuygulama\bin\Debug\OPPuygulama.exe.config
+C:\Users\ozano\source\repos\OPPuygulama\OPPuygulama\bin\Debug\OPPuygulama.exe
+C:\Users\ozano\source\repos\OPPuygulama\OPPuygulama\bin\Debug\OPPuygulama.pdb
+C:\Users\ozano\source\repos\OPPuygulama\OPPuygulama\obj\Debug\OPPuygulama.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\OPPuygulama\OPPuygulama\obj\Debug\OPPuygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\OPPuygulama\OPPuygulama\obj\Debug\OPPuygulama.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\OPPuygulama\OPPuygulama\obj\Debug\OPPuygulama.exe
+C:\Users\ozano\source\repos\OPPuygulama\OPPuygulama\obj\Debug\OPPuygulama.pdb

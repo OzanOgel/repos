@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\Çalışma\Çalışma\obj\Debug\Çalışma.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\Çalışma\Çalışma\obj\Debug\Çalışma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\Çalışma\Çalışma\obj\Debug\Çalışma.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\Çalışma\Çalışma\bin\Debug\Çalışma.exe.config
+C:\Users\ozano\source\repos\Çalışma\Çalışma\bin\Debug\Çalışma.exe
+C:\Users\ozano\source\repos\Çalışma\Çalışma\bin\Debug\Çalışma.pdb
+C:\Users\ozano\source\repos\Çalışma\Çalışma\obj\Debug\Çalışma.exe
+C:\Users\ozano\source\repos\Çalışma\Çalışma\obj\Debug\Çalışma.pdb

@@ -1,0 +1,45 @@
+﻿body {
+    background-color: #202124;
+}
+
+*, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 40px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #CBCDCC;
+    font-size: 25pt;
+    text-decoration: none;
+    color: black;
+    display: flex;
+}
+
+    .header span {
+        font-family: Calibri;
+        word-spacing: 7px;
+    }
+
+.asplabel {
+    float: right;
+    font-size: 15pt;
+    margin-top: 10px;
+}
+
+.header img {
+    float: right;
+    width: 40px;
+    margin-top: 12px;
+}
+
+
+
+.resimyetkili {
+   
+    float:left;
+    
+    
+}

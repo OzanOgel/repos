@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\bin\Debug\JenerikKoleksiyonlar.exe.config
+C:\Users\ozano\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\bin\Debug\JenerikKoleksiyonlar.exe
+C:\Users\ozano\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\bin\Debug\JenerikKoleksiyonlar.pdb
+C:\Users\ozano\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\obj\Debug\JenerikKoleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\obj\Debug\JenerikKoleksiyonlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\obj\Debug\JenerikKoleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\obj\Debug\JenerikKoleksiyonlar.exe
+C:\Users\ozano\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\obj\Debug\JenerikKoleksiyonlar.pdb

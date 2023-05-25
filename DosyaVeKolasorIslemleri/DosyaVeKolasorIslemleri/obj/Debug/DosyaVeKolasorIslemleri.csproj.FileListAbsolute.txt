@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\DosyaVeKolasorIslemleri\DosyaVeKolasorIslemleri\bin\Debug\DosyaVeKolasorIslemleri.exe.config
+C:\Users\ozano\source\repos\DosyaVeKolasorIslemleri\DosyaVeKolasorIslemleri\bin\Debug\DosyaVeKolasorIslemleri.exe
+C:\Users\ozano\source\repos\DosyaVeKolasorIslemleri\DosyaVeKolasorIslemleri\bin\Debug\DosyaVeKolasorIslemleri.pdb
+C:\Users\ozano\source\repos\DosyaVeKolasorIslemleri\DosyaVeKolasorIslemleri\obj\Debug\DosyaVeKolasorIslemleri.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\DosyaVeKolasorIslemleri\DosyaVeKolasorIslemleri\obj\Debug\DosyaVeKolasorIslemleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\DosyaVeKolasorIslemleri\DosyaVeKolasorIslemleri\obj\Debug\DosyaVeKolasorIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\DosyaVeKolasorIslemleri\DosyaVeKolasorIslemleri\obj\Debug\DosyaVeKolasorIslemleri.exe
+C:\Users\ozano\source\repos\DosyaVeKolasorIslemleri\DosyaVeKolasorIslemleri\obj\Debug\DosyaVeKolasorIslemleri.pdb

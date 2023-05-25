@@ -1,0 +1,11 @@
+C:\Users\ozano\source\repos\DialogPenceleri\DialogPenceleri\bin\Debug\DialogPenceleri.exe.config
+C:\Users\ozano\source\repos\DialogPenceleri\DialogPenceleri\bin\Debug\DialogPenceleri.exe
+C:\Users\ozano\source\repos\DialogPenceleri\DialogPenceleri\bin\Debug\DialogPenceleri.pdb
+C:\Users\ozano\source\repos\DialogPenceleri\DialogPenceleri\obj\Debug\DialogPenceleri.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\DialogPenceleri\DialogPenceleri\obj\Debug\DialogPenceleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\DialogPenceleri\DialogPenceleri\obj\Debug\DialogPenceleri.Form1.resources
+C:\Users\ozano\source\repos\DialogPenceleri\DialogPenceleri\obj\Debug\DialogPenceleri.Properties.Resources.resources
+C:\Users\ozano\source\repos\DialogPenceleri\DialogPenceleri\obj\Debug\DialogPenceleri.csproj.GenerateResource.cache
+C:\Users\ozano\source\repos\DialogPenceleri\DialogPenceleri\obj\Debug\DialogPenceleri.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\DialogPenceleri\DialogPenceleri\obj\Debug\DialogPenceleri.exe
+C:\Users\ozano\source\repos\DialogPenceleri\DialogPenceleri\obj\Debug\DialogPenceleri.pdb

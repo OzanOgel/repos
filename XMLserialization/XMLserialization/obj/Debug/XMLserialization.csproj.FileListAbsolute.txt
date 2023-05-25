@@ -1,0 +1,11 @@
+C:\Users\ozano\source\repos\XMLserialization\XMLserialization\bin\Debug\XMLserialization.exe.config
+C:\Users\ozano\source\repos\XMLserialization\XMLserialization\bin\Debug\XMLserialization.exe
+C:\Users\ozano\source\repos\XMLserialization\XMLserialization\bin\Debug\XMLserialization.pdb
+C:\Users\ozano\source\repos\XMLserialization\XMLserialization\obj\Debug\XMLserialization.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\XMLserialization\XMLserialization\obj\Debug\XMLserialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\XMLserialization\XMLserialization\obj\Debug\XMLserialization.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\XMLserialization\XMLserialization\obj\Debug\XMLserialization.exe
+C:\Users\ozano\source\repos\XMLserialization\XMLserialization\obj\Debug\XMLserialization.pdb
+C:\Users\ozano\source\repos\XMLserialization\XMLserialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ozano\source\repos\XMLserialization\XMLserialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ozano\source\repos\XMLserialization\XMLserialization\obj\Debug\XMLserialization.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\sdasaddsaadasadsdsadas\sdasaddsaadasadsdsadas\bin\Debug\sdasaddsaadasadsdsadas.exe.config
+C:\Users\ozano\source\repos\sdasaddsaadasadsdsadas\sdasaddsaadasadsdsadas\bin\Debug\sdasaddsaadasadsdsadas.exe
+C:\Users\ozano\source\repos\sdasaddsaadasadsdsadas\sdasaddsaadasadsdsadas\bin\Debug\sdasaddsaadasadsdsadas.pdb
+C:\Users\ozano\source\repos\sdasaddsaadasadsdsadas\sdasaddsaadasadsdsadas\obj\Debug\sdasaddsaadasadsdsadas.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\sdasaddsaadasadsdsadas\sdasaddsaadasadsdsadas\obj\Debug\sdasaddsaadasadsdsadas.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\sdasaddsaadasadsdsadas\sdasaddsaadasadsdsadas\obj\Debug\sdasaddsaadasadsdsadas.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\sdasaddsaadasadsdsadas\sdasaddsaadasadsdsadas\obj\Debug\sdasaddsaadasadsdsadas.exe
+C:\Users\ozano\source\repos\sdasaddsaadasadsdsadas\sdasaddsaadasadsdsadas\obj\Debug\sdasaddsaadasadsdsadas.pdb

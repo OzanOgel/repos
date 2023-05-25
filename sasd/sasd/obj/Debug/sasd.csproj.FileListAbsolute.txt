@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\sasd\sasd\bin\Debug\sasd.exe.config
+C:\Users\ozano\source\repos\sasd\sasd\bin\Debug\sasd.exe
+C:\Users\ozano\source\repos\sasd\sasd\bin\Debug\sasd.pdb
+C:\Users\ozano\source\repos\sasd\sasd\obj\Debug\sasd.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\sasd\sasd\obj\Debug\sasd.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\sasd\sasd\obj\Debug\sasd.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\sasd\sasd\obj\Debug\sasd.exe
+C:\Users\ozano\source\repos\sasd\sasd\obj\Debug\sasd.pdb

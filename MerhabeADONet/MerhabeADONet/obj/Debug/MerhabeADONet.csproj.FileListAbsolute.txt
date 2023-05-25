@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\MerhabeADONet\MerhabeADONet\bin\Debug\MerhabeADONet.exe.config
+C:\Users\ozano\source\repos\MerhabeADONet\MerhabeADONet\bin\Debug\MerhabeADONet.exe
+C:\Users\ozano\source\repos\MerhabeADONet\MerhabeADONet\bin\Debug\MerhabeADONet.pdb
+C:\Users\ozano\source\repos\MerhabeADONet\MerhabeADONet\obj\Debug\MerhabeADONet.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\MerhabeADONet\MerhabeADONet\obj\Debug\MerhabeADONet.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\MerhabeADONet\MerhabeADONet\obj\Debug\MerhabeADONet.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\MerhabeADONet\MerhabeADONet\obj\Debug\MerhabeADONet.exe
+C:\Users\ozano\source\repos\MerhabeADONet\MerhabeADONet\obj\Debug\MerhabeADONet.pdb

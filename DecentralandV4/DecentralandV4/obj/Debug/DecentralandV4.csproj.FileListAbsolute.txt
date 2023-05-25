@@ -1,0 +1,11 @@
+C:\Users\ozano\source\repos\DecentralandV4\DecentralandV4\bin\Debug\DecentralandV4.exe.config
+C:\Users\ozano\source\repos\DecentralandV4\DecentralandV4\bin\Debug\DecentralandV4.exe
+C:\Users\ozano\source\repos\DecentralandV4\DecentralandV4\bin\Debug\DecentralandV4.pdb
+C:\Users\ozano\source\repos\DecentralandV4\DecentralandV4\bin\Debug\dllmodel.dll
+C:\Users\ozano\source\repos\DecentralandV4\DecentralandV4\bin\Debug\dllmodel.pdb
+C:\Users\ozano\source\repos\DecentralandV4\DecentralandV4\obj\Debug\DecentralandV4.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\DecentralandV4\DecentralandV4\obj\Debug\DecentralandV4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\DecentralandV4\DecentralandV4\obj\Debug\DecentralandV4.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\DecentralandV4\DecentralandV4\obj\Debug\DecentralandV4.csproj.CopyComplete
+C:\Users\ozano\source\repos\DecentralandV4\DecentralandV4\obj\Debug\DecentralandV4.exe
+C:\Users\ozano\source\repos\DecentralandV4\DecentralandV4\obj\Debug\DecentralandV4.pdb

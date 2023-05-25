@@ -1,0 +1,6 @@
+C:\Users\ozano\source\repos\Tekrar\DataAccsesLayer\bin\Debug\DataAccsesLayer.dll
+C:\Users\ozano\source\repos\Tekrar\DataAccsesLayer\bin\Debug\DataAccsesLayer.pdb
+C:\Users\ozano\source\repos\Tekrar\DataAccsesLayer\obj\Debug\DataAccsesLayer.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\Tekrar\DataAccsesLayer\obj\Debug\DataAccsesLayer.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\Tekrar\DataAccsesLayer\obj\Debug\DataAccsesLayer.dll
+C:\Users\ozano\source\repos\Tekrar\DataAccsesLayer\obj\Debug\DataAccsesLayer.pdb

@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\Decentraland\Decentraland\bin\Debug\Decentraland.exe.config
+C:\Users\ozano\source\repos\Decentraland\Decentraland\bin\Debug\Decentraland.exe
+C:\Users\ozano\source\repos\Decentraland\Decentraland\bin\Debug\Decentraland.pdb
+C:\Users\ozano\source\repos\Decentraland\Decentraland\obj\Debug\Decentraland.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\Decentraland\Decentraland\obj\Debug\Decentraland.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\Decentraland\Decentraland\obj\Debug\Decentraland.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\Decentraland\Decentraland\obj\Debug\Decentraland.exe
+C:\Users\ozano\source\repos\Decentraland\Decentraland\obj\Debug\Decentraland.pdb

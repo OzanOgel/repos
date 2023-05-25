@@ -1,0 +1,11 @@
+C:\Users\ozano\source\repos\MerhabaWinForms\MerhabaWinForms\bin\Debug\MerhabaWinForms.exe.config
+C:\Users\ozano\source\repos\MerhabaWinForms\MerhabaWinForms\bin\Debug\MerhabaWinForms.exe
+C:\Users\ozano\source\repos\MerhabaWinForms\MerhabaWinForms\bin\Debug\MerhabaWinForms.pdb
+C:\Users\ozano\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.Properties.Resources.resources
+C:\Users\ozano\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.csproj.GenerateResource.cache
+C:\Users\ozano\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.exe
+C:\Users\ozano\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.pdb
+C:\Users\ozano\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.Form1.resources

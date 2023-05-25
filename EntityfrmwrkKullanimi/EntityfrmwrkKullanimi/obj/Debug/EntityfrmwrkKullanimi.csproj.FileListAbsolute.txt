@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\EntityfrmwrkKullanimi\EntityfrmwrkKullanimi\bin\Debug\EntityfrmwrkKullanimi.exe.config
+C:\Users\ozano\source\repos\EntityfrmwrkKullanimi\EntityfrmwrkKullanimi\bin\Debug\EntityfrmwrkKullanimi.exe
+C:\Users\ozano\source\repos\EntityfrmwrkKullanimi\EntityfrmwrkKullanimi\bin\Debug\EntityfrmwrkKullanimi.pdb
+C:\Users\ozano\source\repos\EntityfrmwrkKullanimi\EntityfrmwrkKullanimi\obj\Debug\EntityfrmwrkKullanimi.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\EntityfrmwrkKullanimi\EntityfrmwrkKullanimi\obj\Debug\EntityfrmwrkKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\EntityfrmwrkKullanimi\EntityfrmwrkKullanimi\obj\Debug\EntityfrmwrkKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\EntityfrmwrkKullanimi\EntityfrmwrkKullanimi\obj\Debug\EntityfrmwrkKullanimi.exe
+C:\Users\ozano\source\repos\EntityfrmwrkKullanimi\EntityfrmwrkKullanimi\obj\Debug\EntityfrmwrkKullanimi.pdb

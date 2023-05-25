@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personeller>
+  <personel id="1">
+    <isim>ibrahim alp</isim>
+    <soyad>Sarıkışla</soyad>
+    <telefon>5382050299</telefon>
+    <mail>alpsarikisla@hotmail.com</mail>
+  </personel>
+  <personel id="2">
+    <isim>Hacı Mustafa</isim>
+    <soyad>Sarıkatipoğlu</soyad>
+    <telefon>530xxxxxxx</telefon>
+    <mail>hms@hotmail.com</mail>
+  </personel>
+</personeller>

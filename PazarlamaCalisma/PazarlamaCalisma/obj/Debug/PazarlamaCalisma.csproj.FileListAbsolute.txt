@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\PazarlamaCalisma\PazarlamaCalisma\bin\Debug\PazarlamaCalisma.exe.config
+C:\Users\ozano\source\repos\PazarlamaCalisma\PazarlamaCalisma\bin\Debug\PazarlamaCalisma.exe
+C:\Users\ozano\source\repos\PazarlamaCalisma\PazarlamaCalisma\bin\Debug\PazarlamaCalisma.pdb
+C:\Users\ozano\source\repos\PazarlamaCalisma\PazarlamaCalisma\obj\Debug\PazarlamaCalisma.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\PazarlamaCalisma\PazarlamaCalisma\obj\Debug\PazarlamaCalisma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\PazarlamaCalisma\PazarlamaCalisma\obj\Debug\PazarlamaCalisma.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\PazarlamaCalisma\PazarlamaCalisma\obj\Debug\PazarlamaCalisma.exe
+C:\Users\ozano\source\repos\PazarlamaCalisma\PazarlamaCalisma\obj\Debug\PazarlamaCalisma.pdb

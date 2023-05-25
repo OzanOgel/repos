@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\YapıcıMetotlarConstructors\YapıcıMetotlarConstructors\bin\Debug\YapıcıMetotlarConstructors.exe.config
+C:\Users\ozano\source\repos\YapıcıMetotlarConstructors\YapıcıMetotlarConstructors\bin\Debug\YapıcıMetotlarConstructors.exe
+C:\Users\ozano\source\repos\YapıcıMetotlarConstructors\YapıcıMetotlarConstructors\bin\Debug\YapıcıMetotlarConstructors.pdb
+C:\Users\ozano\source\repos\YapıcıMetotlarConstructors\YapıcıMetotlarConstructors\obj\Debug\YapıcıMetotlarConstructors.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\YapıcıMetotlarConstructors\YapıcıMetotlarConstructors\obj\Debug\YapıcıMetotlarConstructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\YapıcıMetotlarConstructors\YapıcıMetotlarConstructors\obj\Debug\YapıcıMetotlarConstructors.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\YapıcıMetotlarConstructors\YapıcıMetotlarConstructors\obj\Debug\YapıcıMetotlarConstructors.exe
+C:\Users\ozano\source\repos\YapıcıMetotlarConstructors\YapıcıMetotlarConstructors\obj\Debug\YapıcıMetotlarConstructors.pdb

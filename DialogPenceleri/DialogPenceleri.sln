@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogPenceleri", "DialogPenceleri\DialogPenceleri.csproj", "{50D71240-E0C0-4CC3-8CB9-1BC9B814235A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D71240-E0C0-4CC3-8CB9-1BC9B814235A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D71240-E0C0-4CC3-8CB9-1BC9B814235A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D71240-E0C0-4CC3-8CB9-1BC9B814235A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D71240-E0C0-4CC3-8CB9-1BC9B814235A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8CE2957-26D7-4C94-9D24-6B27969373D7}
+	EndGlobalSection
+EndGlobal

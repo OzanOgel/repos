@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personeller>
+  <personel id="2">
+    <isim>Hacı Mustafa Sarıkatipoğlu</isim>
+    <telefon>53023231</telefon>
+    <mail>hms3@hotmail.com</mail>
+  </personel>
+  <personel id="3">
+    <isim>İrbami Doğan</isim>
+    <telefon>530678768</telefon>
+    <mail>hms3@hotmail.com</mail>
+  </personel>
+  <personel id="4">
+    <isim>Keskin Mert</isim>
+    <telefon>53043134</telefon>
+    <mail>h324ms@hotmail.com</mail>
+  </personel>
+  <personel id="175">
+    <isim>Ozan Ögel</isim>
+    <telefon>5312268691</telefon>
+    <mail>ozanogel2005@gmail.com</mail>
+  </personel>
+</personeller>

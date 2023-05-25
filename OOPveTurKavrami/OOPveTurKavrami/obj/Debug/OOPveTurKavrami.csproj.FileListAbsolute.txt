@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\OOPveTurKavrami\OOPveTurKavrami\bin\Debug\OOPveTurKavrami.exe.config
+C:\Users\ozano\source\repos\OOPveTurKavrami\OOPveTurKavrami\bin\Debug\OOPveTurKavrami.exe
+C:\Users\ozano\source\repos\OOPveTurKavrami\OOPveTurKavrami\bin\Debug\OOPveTurKavrami.pdb
+C:\Users\ozano\source\repos\OOPveTurKavrami\OOPveTurKavrami\obj\Debug\OOPveTurKavrami.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\OOPveTurKavrami\OOPveTurKavrami\obj\Debug\OOPveTurKavrami.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\OOPveTurKavrami\OOPveTurKavrami\obj\Debug\OOPveTurKavrami.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\OOPveTurKavrami\OOPveTurKavrami\obj\Debug\OOPveTurKavrami.exe
+C:\Users\ozano\source\repos\OOPveTurKavrami\OOPveTurKavrami\obj\Debug\OOPveTurKavrami.pdb

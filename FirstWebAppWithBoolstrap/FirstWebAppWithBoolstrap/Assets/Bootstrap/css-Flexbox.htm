@@ -1,0 +1,46 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Document</title>
+    <style>
+      .tasiyici {
+        background-color: silver;
+        display:flex;
+        /*direction: rtl;*/
+        /*flex-direction: column-reverse;*/
+        justify-content: flex-start;
+      }
+      .eleman {
+        background-color: deeppink;
+        text-align: center;
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+        border-radius: 60px;
+        transition: all;
+        transition-duration: 200ms;
+      }
+      .eleman:hover{
+        width: 120px;
+        height: 120px;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Boyutları bilinmiyen dinamik alanlar için geliştirilmiş yapıdır</p>
+    <p>
+      Bildiğimiz üzere nesneleri sağa sola hizalamak için float kullanılırdı.
+      flex yapısı buna alternatif olarak geliştirilmiştir
+    </p>
+    <div class="tasiyici">
+      <div class="eleman">eleman 1</div>
+      <div class="eleman">eleman 2 </div>
+      <div class="eleman">eleman 3 </div>
+      <div class="eleman"> eleman 4</div>
+     
+    </div>
+  </body>
+</html>

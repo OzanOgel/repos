@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\DegerReferansParametre\DegerReferansParametre\bin\Debug\DegerReferansParametre.exe.config
+C:\Users\ozano\source\repos\DegerReferansParametre\DegerReferansParametre\bin\Debug\DegerReferansParametre.exe
+C:\Users\ozano\source\repos\DegerReferansParametre\DegerReferansParametre\bin\Debug\DegerReferansParametre.pdb
+C:\Users\ozano\source\repos\DegerReferansParametre\DegerReferansParametre\obj\Debug\DegerReferansParametre.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\DegerReferansParametre\DegerReferansParametre\obj\Debug\DegerReferansParametre.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\DegerReferansParametre\DegerReferansParametre\obj\Debug\DegerReferansParametre.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\DegerReferansParametre\DegerReferansParametre\obj\Debug\DegerReferansParametre.exe
+C:\Users\ozano\source\repos\DegerReferansParametre\DegerReferansParametre\obj\Debug\DegerReferansParametre.pdb

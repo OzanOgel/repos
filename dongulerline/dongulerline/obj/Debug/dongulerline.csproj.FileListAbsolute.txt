@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\dongulerline\dongulerline\bin\Debug\dongulerline.exe.config
+C:\Users\ozano\source\repos\dongulerline\dongulerline\bin\Debug\dongulerline.exe
+C:\Users\ozano\source\repos\dongulerline\dongulerline\bin\Debug\dongulerline.pdb
+C:\Users\ozano\source\repos\dongulerline\dongulerline\obj\Debug\dongulerline.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\dongulerline\dongulerline\obj\Debug\dongulerline.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\dongulerline\dongulerline\obj\Debug\dongulerline.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\dongulerline\dongulerline\obj\Debug\dongulerline.exe
+C:\Users\ozano\source\repos\dongulerline\dongulerline\obj\Debug\dongulerline.pdb

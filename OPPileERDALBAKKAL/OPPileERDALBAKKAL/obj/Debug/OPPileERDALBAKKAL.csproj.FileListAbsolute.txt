@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\OPPileERDALBAKKAL\OPPileERDALBAKKAL\bin\Debug\OPPileERDALBAKKAL.exe.config
+C:\Users\ozano\source\repos\OPPileERDALBAKKAL\OPPileERDALBAKKAL\bin\Debug\OPPileERDALBAKKAL.exe
+C:\Users\ozano\source\repos\OPPileERDALBAKKAL\OPPileERDALBAKKAL\bin\Debug\OPPileERDALBAKKAL.pdb
+C:\Users\ozano\source\repos\OPPileERDALBAKKAL\OPPileERDALBAKKAL\obj\Debug\OPPileERDALBAKKAL.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\OPPileERDALBAKKAL\OPPileERDALBAKKAL\obj\Debug\OPPileERDALBAKKAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\OPPileERDALBAKKAL\OPPileERDALBAKKAL\obj\Debug\OPPileERDALBAKKAL.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\OPPileERDALBAKKAL\OPPileERDALBAKKAL\obj\Debug\OPPileERDALBAKKAL.exe
+C:\Users\ozano\source\repos\OPPileERDALBAKKAL\OPPileERDALBAKKAL\obj\Debug\OPPileERDALBAKKAL.pdb

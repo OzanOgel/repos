@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\SQLtoXML\SQLtoXML\bin\Debug\SQLtoXML.exe.config
+C:\Users\ozano\source\repos\SQLtoXML\SQLtoXML\bin\Debug\SQLtoXML.exe
+C:\Users\ozano\source\repos\SQLtoXML\SQLtoXML\bin\Debug\SQLtoXML.pdb
+C:\Users\ozano\source\repos\SQLtoXML\SQLtoXML\obj\Debug\SQLtoXML.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\SQLtoXML\SQLtoXML\obj\Debug\SQLtoXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\SQLtoXML\SQLtoXML\obj\Debug\SQLtoXML.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\SQLtoXML\SQLtoXML\obj\Debug\SQLtoXML.exe
+C:\Users\ozano\source\repos\SQLtoXML\SQLtoXML\obj\Debug\SQLtoXML.pdb

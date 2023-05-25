@@ -1,0 +1,11 @@
+C:\Users\ozano\source\repos\ImHateWinForm\ImHateWinForm\bin\Debug\ImHateWinForm.exe.config
+C:\Users\ozano\source\repos\ImHateWinForm\ImHateWinForm\bin\Debug\ImHateWinForm.exe
+C:\Users\ozano\source\repos\ImHateWinForm\ImHateWinForm\bin\Debug\ImHateWinForm.pdb
+C:\Users\ozano\source\repos\ImHateWinForm\ImHateWinForm\obj\Debug\ImHateWinForm.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\ImHateWinForm\ImHateWinForm\obj\Debug\ImHateWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\ImHateWinForm\ImHateWinForm\obj\Debug\ImHateWinForm.Form1.resources
+C:\Users\ozano\source\repos\ImHateWinForm\ImHateWinForm\obj\Debug\ImHateWinForm.Properties.Resources.resources
+C:\Users\ozano\source\repos\ImHateWinForm\ImHateWinForm\obj\Debug\ImHateWinForm.csproj.GenerateResource.cache
+C:\Users\ozano\source\repos\ImHateWinForm\ImHateWinForm\obj\Debug\ImHateWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\ImHateWinForm\ImHateWinForm\obj\Debug\ImHateWinForm.exe
+C:\Users\ozano\source\repos\ImHateWinForm\ImHateWinForm\obj\Debug\ImHateWinForm.pdb

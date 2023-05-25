@@ -1,0 +1,64 @@
+﻿body {
+    font-family: Calibri;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #011F26;
+    min-height: 60px;
+}
+
+    .header h3 a {
+        float: left;
+        color: peru;
+        font-size: 25pt;
+        margin: 8px 19px 15px
+    }
+
+.fume {
+    color: #025E73;
+}
+
+.dark {
+    color: #011F26;
+}
+
+.gri {
+    color: #A5A692;
+}
+
+.zort {
+    color: #BFB78F;
+}
+
+.orange {
+    color: #F2A71B;
+}
+
+.header a {
+    text-decoration: none;
+    list-style-type: none;
+    float: right;
+    padding: 5px;
+    font-size: 30pt;
+    width: 20%;
+    color: #F2A71B;
+}
+
+    .header a:hover {
+        color: wheat;
+    }
+
+.contanier table {
+    display: flex;
+    justify-content: center;
+}
+
+    .contanier table a {
+        text-decoration: none;
+        color: black;
+    }

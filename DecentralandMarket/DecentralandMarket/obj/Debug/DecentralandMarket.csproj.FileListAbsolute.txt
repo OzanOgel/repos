@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\DecentralandMarket\DecentralandMarket\bin\Debug\DecentralandMarket.exe.config
+C:\Users\ozano\source\repos\DecentralandMarket\DecentralandMarket\bin\Debug\DecentralandMarket.exe
+C:\Users\ozano\source\repos\DecentralandMarket\DecentralandMarket\bin\Debug\DecentralandMarket.pdb
+C:\Users\ozano\source\repos\DecentralandMarket\DecentralandMarket\obj\Debug\DecentralandMarket.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\DecentralandMarket\DecentralandMarket\obj\Debug\DecentralandMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\DecentralandMarket\DecentralandMarket\obj\Debug\DecentralandMarket.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\DecentralandMarket\DecentralandMarket\obj\Debug\DecentralandMarket.exe
+C:\Users\ozano\source\repos\DecentralandMarket\DecentralandMarket\obj\Debug\DecentralandMarket.pdb

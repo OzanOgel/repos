@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\kosulhatırlatma\kosulhatırlatma\obj\Debug\kosulhatırlatma.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\kosulhatırlatma\kosulhatırlatma\obj\Debug\kosulhatırlatma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\kosulhatırlatma\kosulhatırlatma\obj\Debug\kosulhatırlatma.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\kosulhatırlatma\kosulhatırlatma\bin\Debug\kosulhatırlatma.exe.config
+C:\Users\ozano\source\repos\kosulhatırlatma\kosulhatırlatma\bin\Debug\kosulhatırlatma.exe
+C:\Users\ozano\source\repos\kosulhatırlatma\kosulhatırlatma\bin\Debug\kosulhatırlatma.pdb
+C:\Users\ozano\source\repos\kosulhatırlatma\kosulhatırlatma\obj\Debug\kosulhatırlatma.exe
+C:\Users\ozano\source\repos\kosulhatırlatma\kosulhatırlatma\obj\Debug\kosulhatırlatma.pdb

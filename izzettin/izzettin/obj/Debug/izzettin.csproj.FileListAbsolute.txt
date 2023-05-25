@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\izzettin\izzettin\bin\Debug\izzettin.exe.config
+C:\Users\ozano\source\repos\izzettin\izzettin\bin\Debug\izzettin.exe
+C:\Users\ozano\source\repos\izzettin\izzettin\bin\Debug\izzettin.pdb
+C:\Users\ozano\source\repos\izzettin\izzettin\obj\Debug\izzettin.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\izzettin\izzettin\obj\Debug\izzettin.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\izzettin\izzettin\obj\Debug\izzettin.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\izzettin\izzettin\obj\Debug\izzettin.exe
+C:\Users\ozano\source\repos\izzettin\izzettin\obj\Debug\izzettin.pdb

@@ -1,0 +1,12 @@
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\bin\Debug\AgeOfDeveloperLTD.exe.config
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\bin\Debug\AgeOfDeveloperLTD.exe
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\bin\Debug\AgeOfDeveloperLTD.pdb
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\obj\Debug\AgeOfDeveloperLTD.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\obj\Debug\AgeOfDeveloperLTD.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\obj\Debug\AgeOfDeveloperLTD.Form1.resources
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\obj\Debug\AgeOfDeveloperLTD.PersonelKayitForm.resources
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\obj\Debug\AgeOfDeveloperLTD.Properties.Resources.resources
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\obj\Debug\AgeOfDeveloperLTD.csproj.GenerateResource.cache
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\obj\Debug\AgeOfDeveloperLTD.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\obj\Debug\AgeOfDeveloperLTD.exe
+C:\Users\ozano\source\repos\AgeOfDeveloperLTD\AgeOfDeveloperLTD\obj\Debug\AgeOfDeveloperLTD.pdb

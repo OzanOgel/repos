@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\ForDongusu\ForDongusu\bin\Debug\ForDongusu.exe.config
+C:\Users\ozano\source\repos\ForDongusu\ForDongusu\bin\Debug\ForDongusu.exe
+C:\Users\ozano\source\repos\ForDongusu\ForDongusu\bin\Debug\ForDongusu.pdb
+C:\Users\ozano\source\repos\ForDongusu\ForDongusu\obj\Debug\ForDongusu.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\ForDongusu\ForDongusu\obj\Debug\ForDongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\ForDongusu\ForDongusu\obj\Debug\ForDongusu.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\ForDongusu\ForDongusu\obj\Debug\ForDongusu.exe
+C:\Users\ozano\source\repos\ForDongusu\ForDongusu\obj\Debug\ForDongusu.pdb

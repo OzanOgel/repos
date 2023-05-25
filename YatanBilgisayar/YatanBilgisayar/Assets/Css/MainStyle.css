@@ -1,0 +1,124 @@
+﻿body {
+    font-family:Poppins;
+}
+.HeadImage {
+    background-color: #14123F;
+    min-height:50px;
+}
+*
+{
+    margin:0; padding:0;
+}
+
+.BoxContanier
+{
+    width:1336px;
+    margin-left:auto;
+    margin-right:auto;
+
+
+}
+.TopMenu
+{
+    list-style-type:none;
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    font-size:11pt;
+
+    
+}
+.TopMenu li
+{
+    float:left;
+    margin:12px;
+
+}
+.TopMenu a
+{
+    color:gray;
+}
+.TopMenu a:hover
+{
+    color:#337AB7
+}
+.Logo{
+    width:154px;
+    float:left;
+}
+.searchBox
+{
+    float:left;
+    width:380px;
+    height:30px;
+    margin-left:250px;
+    border-radius:20px;
+    border:none;
+    border:0px solid silver;
+    background-color: #F6F6F6;
+    padding:5px 10px;
+
+    
+}
+.SearchButton
+{
+   padding-top:10px;
+   float:left;
+   margin-left:-30px;
+      
+   
+}
+.LoginButton
+{
+    color:white;
+    padding:7px 40px;
+    border-radius:20px;
+    background-color:#003177;
+    float:right;
+    text-decoration:none;
+    font-weight:700;
+      
+
+}
+.LoginButton img
+{
+    margin-bottom:-2px;
+    margin-right:10px;
+    width:16px;
+}
+.LoginButton:hover
+{
+    background-color:#002556;
+}
+.mainMenu
+{
+    border-bottom:1px solid silver;
+    border-top:1px solid silver;
+    min-height:47px;
+    margin-top:15px;
+}
+.mainMenu ul
+{
+    list-style-type:none;
+}
+.mainMenu ul li
+{
+    float:left;
+    padding:10px;
+    border-top:3px solid white;
+}
+.mainMenu ul a
+{
+    color:#393939;
+    font-weight:900;
+    font-size:11pt;
+}
+    .mainMenu ul a:hover li {
+        border-top: 3px solid #14123F;
+    }
+.AVO {
+    background-color: #101820;
+    height:59px;
+}
+
+  

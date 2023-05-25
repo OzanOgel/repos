@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\erdalbakkalodev\erdalbakkalodev\bin\Debug\erdalbakkalodev.exe.config
+C:\Users\ozano\source\repos\erdalbakkalodev\erdalbakkalodev\bin\Debug\erdalbakkalodev.exe
+C:\Users\ozano\source\repos\erdalbakkalodev\erdalbakkalodev\bin\Debug\erdalbakkalodev.pdb
+C:\Users\ozano\source\repos\erdalbakkalodev\erdalbakkalodev\obj\Debug\erdalbakkalodev.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\erdalbakkalodev\erdalbakkalodev\obj\Debug\erdalbakkalodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\erdalbakkalodev\erdalbakkalodev\obj\Debug\erdalbakkalodev.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\erdalbakkalodev\erdalbakkalodev\obj\Debug\erdalbakkalodev.exe
+C:\Users\ozano\source\repos\erdalbakkalodev\erdalbakkalodev\obj\Debug\erdalbakkalodev.pdb

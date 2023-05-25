@@ -1,0 +1,17 @@
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.GirişForm.resources
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.Properties.Resources.resources
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.csproj.GenerateResource.cache
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\bin\Debug\AgeOfTicaret.exe.config
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\bin\Debug\AgeOfTicaret.exe
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\bin\Debug\AgeOfTicaret.pdb
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.exe
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.pdb
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.MainForm.resources
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.Kategoriİslemleri.resources
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\bin\Debug\DataAccessLayer.dll
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\bin\Debug\DataAccessLayer.pdb
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.csproj.CopyComplete
+C:\Users\ozano\source\repos\AgeOfTicaret\AgeOfTicaret\obj\Debug\AgeOfTicaret.Urunİslemleri.resources

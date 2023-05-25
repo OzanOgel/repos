@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\DiziElemanSayısıArttırma\DiziElemanSayısıArttırma\bin\Debug\DiziElemanSayısıArttırma.exe.config
+C:\Users\ozano\source\repos\DiziElemanSayısıArttırma\DiziElemanSayısıArttırma\bin\Debug\DiziElemanSayısıArttırma.exe
+C:\Users\ozano\source\repos\DiziElemanSayısıArttırma\DiziElemanSayısıArttırma\bin\Debug\DiziElemanSayısıArttırma.pdb
+C:\Users\ozano\source\repos\DiziElemanSayısıArttırma\DiziElemanSayısıArttırma\obj\Debug\DiziElemanSayısıArttırma.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\DiziElemanSayısıArttırma\DiziElemanSayısıArttırma\obj\Debug\DiziElemanSayısıArttırma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\DiziElemanSayısıArttırma\DiziElemanSayısıArttırma\obj\Debug\DiziElemanSayısıArttırma.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\DiziElemanSayısıArttırma\DiziElemanSayısıArttırma\obj\Debug\DiziElemanSayısıArttırma.exe
+C:\Users\ozano\source\repos\DiziElemanSayısıArttırma\DiziElemanSayısıArttırma\obj\Debug\DiziElemanSayısıArttırma.pdb

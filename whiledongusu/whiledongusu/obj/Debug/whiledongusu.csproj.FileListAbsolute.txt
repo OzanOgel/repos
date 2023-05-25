@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\whiledongusu\whiledongusu\bin\Debug\whiledongusu.exe.config
+C:\Users\ozano\source\repos\whiledongusu\whiledongusu\bin\Debug\whiledongusu.exe
+C:\Users\ozano\source\repos\whiledongusu\whiledongusu\bin\Debug\whiledongusu.pdb
+C:\Users\ozano\source\repos\whiledongusu\whiledongusu\obj\Debug\whiledongusu.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\whiledongusu\whiledongusu\obj\Debug\whiledongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\whiledongusu\whiledongusu\obj\Debug\whiledongusu.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\whiledongusu\whiledongusu\obj\Debug\whiledongusu.exe
+C:\Users\ozano\source\repos\whiledongusu\whiledongusu\obj\Debug\whiledongusu.pdb

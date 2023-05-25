@@ -1,0 +1,6 @@
+C:\Users\ozano\source\repos\DecentralandV4\dllmodel\bin\Debug\dllmodel.dll
+C:\Users\ozano\source\repos\DecentralandV4\dllmodel\bin\Debug\dllmodel.pdb
+C:\Users\ozano\source\repos\DecentralandV4\dllmodel\obj\Debug\dllmodel.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\DecentralandV4\dllmodel\obj\Debug\dllmodel.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\DecentralandV4\dllmodel\obj\Debug\dllmodel.dll
+C:\Users\ozano\source\repos\DecentralandV4\dllmodel\obj\Debug\dllmodel.pdb

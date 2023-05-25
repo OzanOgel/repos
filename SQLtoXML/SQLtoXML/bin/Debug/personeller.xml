@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Urunler>
+  <urun ID="1">
+    <Isim>Chai</Isim>
+    <Stok>39</Stok>
+    <Fiyat>18,0000</Fiyat>
+  </urun>
+  <urun ID="2">
+    <Isim>Chang</Isim>
+    <Stok>17</Stok>
+    <Fiyat>19,0000</Fiyat>
+  </urun>
+  <urun ID="3">
+    <Isim>Aniseed Syrup</Isim>
+    <Stok>13</Stok>
+    <Fiyat>10,0000</Fiyat>
+  </urun>
+  <urun ID="4">
+    <Isim>Chef Anton's Cajun Seasoning</Isim>
+    <Stok>53</Stok>
+    <Fiyat>22,0000</Fiyat>
+  </urun>
+  <urun ID="6">
+    <Isim>Grandma's Boysenberry Spread</Isim>
+    <Stok>120</Stok>
+    <Fiyat>25,0000</Fiyat>
+  </urun>
+  <urun ID="7">
+    <Isim>Uncle Bob's Organic Dried Pears</Isim>
+    <Stok>15</Stok>
+    <Fiyat>30,0000</Fiyat>
+  </urun>
+  <urun ID="8">
+    <Isim>Northwoods Cranberry Sauce</Isim>
+    <Stok>6</Stok>
+    <Fiyat>40,0000</Fiyat>
+  </urun>
+  <urun ID="10">
+    <Isim>Ikura</Isim>
+    <Stok>31</Stok>
+    <Fiyat>31,0000</Fiyat>
+  </urun>
+  <urun ID="11">
+    <Isim>Queso Cabrales</Isim>
+    <Stok>22</Stok>
+    <Fiyat>21,0000</Fiyat>
+  </urun>
+  <urun ID="12">
+    <Isim>Queso Manchego La Pastora</Isim>
+    <Stok>86</Stok>
+    <Fiyat>38,0000</Fiyat>
+  </urun>
+  <urun ID="13">
+    <Isim>Konbu</Isim>
+    <Stok>24</Stok>
+    <Fiyat>6,0000</Fiyat>
+  </urun>
+  <urun ID="14">
+    <Isim>Tofu</Isim>
+    <Stok>35</Stok>
+    <Fiyat>23,2500</Fiyat>
+  </urun>
+  <urun ID="15">
+    <Isim>Genen Shouyu</Isim>
+    <Stok>39</Stok>
+    <Fiyat>15,5000</Fiyat>
+  </urun>
+  <urun ID="16">
+    <Isim>Pavlova</Isim>
+    <Stok>29</Stok>
+    <Fiyat>17,4500</Fiyat>
+  </urun>
+  <urun ID="18">
+    <Isim>Carnarvon Tigers</Isim>
+    <Stok>42</Stok>
+    <Fiyat>62,5000</Fiyat>
+  </urun>
+  <urun ID="19">
+    <Isim>Teatime Chocolate Biscuits</Isim>
+    <Stok>25</Stok>
+    <Fiyat>9,2000</Fiyat>
+  </urun>
+  <urun ID="20">
+    <Isim>Sir Rodney's Marmalade</Isim>
+    <Stok>40</Stok>
+    <Fiyat>81,0000</Fiyat>
+  </urun>
+  <urun ID="21">
+    <Isim>Sir Rodney's Scones</Isim>
+    <Stok>3</Stok>
+    <Fiyat>10,0000</Fiyat>
+  </urun>
+  <urun ID="22">
+    <Isim>Gustaf's Knäckebröd</Isim>
+    <Stok>104</Stok>
+    <Fiyat>21,0000</Fiyat>
+  </urun>
+  <urun ID="23">
+    <Isim>Tunnbröd</Isim>
+    <Stok>61</Stok>
+    <Fiyat>9,0000</Fiyat>
+  </urun>
+  <urun ID="25">
+    <Isim>NuNuCa Nuß-Nougat-Creme</Isim>
+    <Stok>76</Stok>
+    <Fiyat>14,0000</Fiyat>
+  </urun>
+  <urun ID="26">
+    <Isim>Gumbär Gummibärchen</Isim>
+    <Stok>15</Stok>
+    <Fiyat>31,2300</Fiyat>
+  </urun>
+  <urun ID="27">
+    <Isim>Schoggi Schokolade</Isim>
+    <Stok>49</Stok>
+    <Fiyat>43,9000</Fiyat>
+  </urun>
+  <urun ID="30">
+    <Isim>Nord-Ost Matjeshering</Isim>
+    <Stok>10</Stok>
+    <Fiyat>25,8900</Fiyat>
+  </urun>
+  <urun ID="31">
+    <Isim>Gorgonzola Telino</Isim>
+    <Stok>0</Stok>
+    <Fiyat>12,5000</Fiyat>
+  </urun>
+  <urun ID="32">
+    <Isim>Mascarpone Fabioli</Isim>
+    <Stok>9</Stok>
+    <Fiyat>32,0000</Fiyat>
+  </urun>
+  <urun ID="33">
+    <Isim>Geitost</Isim>
+    <Stok>112</Stok>
+    <Fiyat>2,5000</Fiyat>
+  </urun>
+  <urun ID="34">
+    <Isim>Sasquatch Ale</Isim>
+    <Stok>111</Stok>
+    <Fiyat>14,0000</Fiyat>
+  </urun>
+  <urun ID="35">
+    <Isim>Steeleye Stout</Isim>
+    <Stok>20</Stok>
+    <Fiyat>18,0000</Fiyat>
+  </urun>
+  <urun ID="36">
+    <Isim>Inlagd Sill</Isim>
+    <Stok>112</Stok>
+    <Fiyat>19,0000</Fiyat>
+  </urun>
+  <urun ID="37">
+    <Isim>Gravad lax</Isim>
+    <Stok>11</Stok>
+    <Fiyat>26,0000</Fiyat>
+  </urun>
+  <urun ID="38">
+    <Isim>Côte de Blaye</Isim>
+    <Stok>17</Stok>
+    <Fiyat>263,5000</Fiyat>
+  </urun>
+  <urun ID="39">
+    <Isim>Chartreuse verte</Isim>
+    <Stok>69</Stok>
+    <Fiyat>18,0000</Fiyat>
+  </urun>
+  <urun ID="40">
+    <Isim>Boston Crab Meat</Isim>
+    <Stok>123</Stok>
+    <Fiyat>18,4000</Fiyat>
+  </urun>
+  <urun ID="41">
+    <Isim>Jack's New England Clam Chowder</Isim>
+    <Stok>85</Stok>
+    <Fiyat>9,6500</Fiyat>
+  </urun>
+  <urun ID="43">
+    <Isim>Ipoh Coffee</Isim>
+    <Stok>17</Stok>
+    <Fiyat>46,0000</Fiyat>
+  </urun>
+  <urun ID="44">
+    <Isim>Gula Malacca</Isim>
+    <Stok>27</Stok>
+    <Fiyat>19,4500</Fiyat>
+  </urun>
+  <urun ID="45">
+    <Isim>Rogede sild</Isim>
+    <Stok>5</Stok>
+    <Fiyat>9,5000</Fiyat>
+  </urun>
+  <urun ID="46">
+    <Isim>Spegesild</Isim>
+    <Stok>95</Stok>
+    <Fiyat>12,0000</Fiyat>
+  </urun>
+  <urun ID="47">
+    <Isim>Zaanse koeken</Isim>
+    <Stok>36</Stok>
+    <Fiyat>9,5000</Fiyat>
+  </urun>
+  <urun ID="48">
+    <Isim>Chocolade</Isim>
+    <Stok>15</Stok>
+    <Fiyat>12,7500</Fiyat>
+  </urun>
+  <urun ID="49">
+    <Isim>Maxilaku</Isim>
+    <Stok>10</Stok>
+    <Fiyat>20,0000</Fiyat>
+  </urun>
+  <urun ID="50">
+    <Isim>Valkoinen suklaa</Isim>
+    <Stok>65</Stok>
+    <Fiyat>16,2500</Fiyat>
+  </urun>
+  <urun ID="51">
+    <Isim>Manjimup Dried Apples</Isim>
+    <Stok>20</Stok>
+    <Fiyat>53,0000</Fiyat>
+  </urun>
+  <urun ID="52">
+    <Isim>Filo Mix</Isim>
+    <Stok>38</Stok>
+    <Fiyat>7,0000</Fiyat>
+  </urun>
+  <urun ID="54">
+    <Isim>Tourtière</Isim>
+    <Stok>21</Stok>
+    <Fiyat>7,4500</Fiyat>
+  </urun>
+  <urun ID="55">
+    <Isim>Pâté chinois</Isim>
+    <Stok>115</Stok>
+    <Fiyat>24,0000</Fiyat>
+  </urun>
+  <urun ID="56">
+    <Isim>Gnocchi di nonna Alice</Isim>
+    <Stok>21</Stok>
+    <Fiyat>38,0000</Fiyat>
+  </urun>
+  <urun ID="57">
+    <Isim>Ravioli Angelo</Isim>
+    <Stok>36</Stok>
+    <Fiyat>19,5000</Fiyat>
+  </urun>
+  <urun ID="58">
+    <Isim>Escargots de Bourgogne</Isim>
+    <Stok>62</Stok>
+    <Fiyat>13,2500</Fiyat>
+  </urun>
+  <urun ID="59">
+    <Isim>Raclette Courdavault</Isim>
+    <Stok>79</Stok>
+    <Fiyat>55,0000</Fiyat>
+  </urun>
+  <urun ID="60">
+    <Isim>Camembert Pierrot</Isim>
+    <Stok>19</Stok>
+    <Fiyat>34,0000</Fiyat>
+  </urun>
+  <urun ID="61">
+    <Isim>Sirop d'érable</Isim>
+    <Stok>113</Stok>
+    <Fiyat>28,5000</Fiyat>
+  </urun>
+  <urun ID="62">
+    <Isim>Tarte au sucre</Isim>
+    <Stok>17</Stok>
+    <Fiyat>49,3000</Fiyat>
+  </urun>
+  <urun ID="63">
+    <Isim>Vegie-spread</Isim>
+    <Stok>24</Stok>
+    <Fiyat>43,9000</Fiyat>
+  </urun>
+  <urun ID="64">
+    <Isim>Wimmers gute Semmelknödel</Isim>
+    <Stok>22</Stok>
+    <Fiyat>33,2500</Fiyat>
+  </urun>
+  <urun ID="65">
+    <Isim>Louisiana Fiery Hot Pepper Sauce</Isim>
+    <Stok>76</Stok>
+    <Fiyat>21,0500</Fiyat>
+  </urun>
+  <urun ID="66">
+    <Isim>Louisiana Hot Spiced Okra</Isim>
+    <Stok>4</Stok>
+    <Fiyat>17,0000</Fiyat>
+  </urun>
+  <urun ID="67">
+    <Isim>Laughing Lumberjack Lager</Isim>
+    <Stok>52</Stok>
+    <Fiyat>14,0000</Fiyat>
+  </urun>
+  <urun ID="68">
+    <Isim>Scottish Longbreads</Isim>
+    <Stok>6</Stok>
+    <Fiyat>12,5000</Fiyat>
+  </urun>
+  <urun ID="69">
+    <Isim>Gudbrandsdalsost</Isim>
+    <Stok>26</Stok>
+    <Fiyat>36,0000</Fiyat>
+  </urun>
+  <urun ID="70">
+    <Isim>Outback Lager</Isim>
+    <Stok>15</Stok>
+    <Fiyat>15,0000</Fiyat>
+  </urun>
+  <urun ID="71">
+    <Isim>Flotemysost</Isim>
+    <Stok>26</Stok>
+    <Fiyat>21,5000</Fiyat>
+  </urun>
+  <urun ID="72">
+    <Isim>Mozzarella di Giovanni</Isim>
+    <Stok>14</Stok>
+    <Fiyat>34,8000</Fiyat>
+  </urun>
+  <urun ID="73">
+    <Isim>Röd Kaviar</Isim>
+    <Stok>101</Stok>
+    <Fiyat>15,0000</Fiyat>
+  </urun>
+  <urun ID="74">
+    <Isim>Longlife Tofu</Isim>
+    <Stok>4</Stok>
+    <Fiyat>10,0000</Fiyat>
+  </urun>
+  <urun ID="75">
+    <Isim>Rhönbräu Klosterbier</Isim>
+    <Stok>125</Stok>
+    <Fiyat>7,7500</Fiyat>
+  </urun>
+  <urun ID="76">
+    <Isim>Lakkalikööri</Isim>
+    <Stok>57</Stok>
+    <Fiyat>18,0000</Fiyat>
+  </urun>
+  <urun ID="77">
+    <Isim>Original Frankfurter grüne Soße</Isim>
+    <Stok>32</Stok>
+    <Fiyat>13,0000</Fiyat>
+  </urun>
+  <urun ID="78">
+    <Isim>Cappy %100 portakal suyu</Isim>
+    <Stok>0</Stok>
+    <Fiyat>25,0000</Fiyat>
+  </urun>
+  <urun ID="79">
+    <Isim>Deneme</Isim>
+    <Stok>20</Stok>
+    <Fiyat>15,0000</Fiyat>
+  </urun>
+</Urunler>

@@ -1,0 +1,36 @@
+﻿body {
+}
+.contanier{
+    
+    margin-left:600px;
+    display:block;
+    margin-top:175px;
+    
+    
+}
+.textbox{
+    border:2px solid gray;
+    height:30px;
+    width:280px;
+    
+
+}
+.contanier a {
+    border: 1px solid silver;
+    background-color: forestgreen;
+    text-decoration: none;
+    font-size: 20pt;
+    color: white;
+    font-family: Calibri;
+    text-align:center;
+}
+h3{
+    font-size:25pt;
+}
+#deneme{
+    width:300px;
+    height:300px;
+    background-color:red;
+    border:1px solid green;
+    
+}

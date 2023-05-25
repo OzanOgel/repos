@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\GenericKavrami\GenericKavrami\bin\Debug\GenericKavrami.exe.config
+C:\Users\ozano\source\repos\GenericKavrami\GenericKavrami\bin\Debug\GenericKavrami.exe
+C:\Users\ozano\source\repos\GenericKavrami\GenericKavrami\bin\Debug\GenericKavrami.pdb
+C:\Users\ozano\source\repos\GenericKavrami\GenericKavrami\obj\Debug\GenericKavrami.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\GenericKavrami\GenericKavrami\obj\Debug\GenericKavrami.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\GenericKavrami\GenericKavrami\obj\Debug\GenericKavrami.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\GenericKavrami\GenericKavrami\obj\Debug\GenericKavrami.exe
+C:\Users\ozano\source\repos\GenericKavrami\GenericKavrami\obj\Debug\GenericKavrami.pdb

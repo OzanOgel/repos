@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\AtributeKavrami\AtributeKavrami\bin\Release\AtributeKavrami.exe.config
+C:\Users\ozano\source\repos\AtributeKavrami\AtributeKavrami\bin\Release\AtributeKavrami.exe
+C:\Users\ozano\source\repos\AtributeKavrami\AtributeKavrami\bin\Release\AtributeKavrami.pdb
+C:\Users\ozano\source\repos\AtributeKavrami\AtributeKavrami\obj\Release\AtributeKavrami.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\AtributeKavrami\AtributeKavrami\obj\Release\AtributeKavrami.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\AtributeKavrami\AtributeKavrami\obj\Release\AtributeKavrami.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\AtributeKavrami\AtributeKavrami\obj\Release\AtributeKavrami.exe
+C:\Users\ozano\source\repos\AtributeKavrami\AtributeKavrami\obj\Release\AtributeKavrami.pdb

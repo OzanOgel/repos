@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\Erdalbakkal\Erdalbakkal\bin\Debug\Erdalbakkal.exe.config
+C:\Users\ozano\source\repos\Erdalbakkal\Erdalbakkal\bin\Debug\Erdalbakkal.exe
+C:\Users\ozano\source\repos\Erdalbakkal\Erdalbakkal\bin\Debug\Erdalbakkal.pdb
+C:\Users\ozano\source\repos\Erdalbakkal\Erdalbakkal\obj\Debug\Erdalbakkal.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\Erdalbakkal\Erdalbakkal\obj\Debug\Erdalbakkal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\Erdalbakkal\Erdalbakkal\obj\Debug\Erdalbakkal.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\Erdalbakkal\Erdalbakkal\obj\Debug\Erdalbakkal.exe
+C:\Users\ozano\source\repos\Erdalbakkal\Erdalbakkal\obj\Debug\Erdalbakkal.pdb

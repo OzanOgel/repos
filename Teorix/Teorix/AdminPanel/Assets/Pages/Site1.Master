@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Teorix.AdminPanel.Assets.Pages.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="../CSS/MasterCss.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../CSS/fontawesome/css/all.min.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div class="header">
+
+                <span style="">Teorix Yetkili Paneli</span>
+                
+                <div class="resimyetkili"></div>
+                <asp:Label ID="lbl_master" runat="server" CssClass="asplabel">
+                     Yetkili1</asp:Label>
+                <a href="#">
+                    <img src="../Images/Exıt%20logo.png" /></a>
+
+                <i class="fa-solid fa-house"></i>
+
+            </div>
+
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        
+    </form>
+</body>
+</html>

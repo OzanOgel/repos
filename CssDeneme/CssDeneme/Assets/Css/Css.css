@@ -1,0 +1,44 @@
+﻿body {
+    
+}
+*{
+    margin:0;
+    padding:0;
+}
+.header {
+    background-color: #000000;
+    height: 55px;
+   
+}
+.headerMenu
+{
+  padding-top:15px;
+  font-size:16pt;
+  margin-left:30px;
+  text-decoration:none;
+  word-spacing:30px;
+  text-align:left;
+  
+
+}
+.headerMenu a
+{
+    margin-top:20px;
+    color:white;
+    text-decoration:none;
+}
+.headerMenu a:hover {
+ color: burlywood;
+ }
+.contanier {
+
+}
+.Resim {
+    float: right;
+}
+.blabla imq {
+    
+    width: 70px;
+}
+
+

@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\XMLIşlemleri\XMLIşlemleri\bin\Debug\XMLIşlemleri.exe.config
+C:\Users\ozano\source\repos\XMLIşlemleri\XMLIşlemleri\bin\Debug\XMLIşlemleri.exe
+C:\Users\ozano\source\repos\XMLIşlemleri\XMLIşlemleri\bin\Debug\XMLIşlemleri.pdb
+C:\Users\ozano\source\repos\XMLIşlemleri\XMLIşlemleri\obj\Debug\XMLIşlemleri.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\XMLIşlemleri\XMLIşlemleri\obj\Debug\XMLIşlemleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\XMLIşlemleri\XMLIşlemleri\obj\Debug\XMLIşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\XMLIşlemleri\XMLIşlemleri\obj\Debug\XMLIşlemleri.exe
+C:\Users\ozano\source\repos\XMLIşlemleri\XMLIşlemleri\obj\Debug\XMLIşlemleri.pdb

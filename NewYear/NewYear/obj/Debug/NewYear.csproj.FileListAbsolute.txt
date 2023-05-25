@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\NewYear\NewYear\bin\Debug\NewYear.exe.config
+C:\Users\ozano\source\repos\NewYear\NewYear\bin\Debug\NewYear.exe
+C:\Users\ozano\source\repos\NewYear\NewYear\bin\Debug\NewYear.pdb
+C:\Users\ozano\source\repos\NewYear\NewYear\obj\Debug\NewYear.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\NewYear\NewYear\obj\Debug\NewYear.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\NewYear\NewYear\obj\Debug\NewYear.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\NewYear\NewYear\obj\Debug\NewYear.exe
+C:\Users\ozano\source\repos\NewYear\NewYear\obj\Debug\NewYear.pdb

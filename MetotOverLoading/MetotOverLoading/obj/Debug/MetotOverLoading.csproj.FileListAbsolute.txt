@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\MetotOverLoading\MetotOverLoading\bin\Debug\MetotOverLoading.exe.config
+C:\Users\ozano\source\repos\MetotOverLoading\MetotOverLoading\bin\Debug\MetotOverLoading.exe
+C:\Users\ozano\source\repos\MetotOverLoading\MetotOverLoading\bin\Debug\MetotOverLoading.pdb
+C:\Users\ozano\source\repos\MetotOverLoading\MetotOverLoading\obj\Debug\MetotOverLoading.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\MetotOverLoading\MetotOverLoading\obj\Debug\MetotOverLoading.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\MetotOverLoading\MetotOverLoading\obj\Debug\MetotOverLoading.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\MetotOverLoading\MetotOverLoading\obj\Debug\MetotOverLoading.exe
+C:\Users\ozano\source\repos\MetotOverLoading\MetotOverLoading\obj\Debug\MetotOverLoading.pdb

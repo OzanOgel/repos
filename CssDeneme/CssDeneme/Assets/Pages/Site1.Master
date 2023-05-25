@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="CssDeneme.Assets.Pages.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="../Css/Css.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <div>
+                <div class="headerMenu">
+
+                    <a href="#">Anasayfa</a>
+                    <a href="#">Diziler</a>
+                    <a href="#">Filmler</a>
+                    <a href="#">Kitaplar</a>
+                    <div class="Resim">
+                        <img src="../images/IconProfil.png" class="blabla" />
+                    </div>
+
+                </div>
+
+            </div>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

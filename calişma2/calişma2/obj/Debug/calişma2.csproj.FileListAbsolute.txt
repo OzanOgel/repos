@@ -1,0 +1,8 @@
+C:\Users\ozano\source\repos\calişma2\calişma2\obj\Debug\calişma2.csproj.AssemblyReference.cache
+C:\Users\ozano\source\repos\calişma2\calişma2\obj\Debug\calişma2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozano\source\repos\calişma2\calişma2\obj\Debug\calişma2.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\calişma2\calişma2\bin\Debug\calişma2.exe.config
+C:\Users\ozano\source\repos\calişma2\calişma2\bin\Debug\calişma2.exe
+C:\Users\ozano\source\repos\calişma2\calişma2\bin\Debug\calişma2.pdb
+C:\Users\ozano\source\repos\calişma2\calişma2\obj\Debug\calişma2.exe
+C:\Users\ozano\source\repos\calişma2\calişma2\obj\Debug\calişma2.pdb
